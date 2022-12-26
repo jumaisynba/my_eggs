@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dimash/catkin_ws/devel/.private/calibrate_rgb_sensor_rustam/setup.sh

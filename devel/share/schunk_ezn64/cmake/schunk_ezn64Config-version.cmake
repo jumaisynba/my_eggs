@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/schunk_ezn64/share/schunk_ezn64/cmake/schunk_ezn64Config-version.cmake

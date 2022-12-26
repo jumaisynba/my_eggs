@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/schunk_ezn64/share/roseus/ros/schunk_ezn64/srv/set_position.l

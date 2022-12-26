@@ -1,0 +1,8 @@
+prefix=/home/dimash/catkin_ws/devel/.private/tactile_servo_config
+
+Name: tactile_servo_config
+Description: Description of tactile_servo_config
+Version: 0.0.0
+Cflags: -I/home/dimash/catkin_ws/devel/.private/tactile_servo_config/include
+Libs: -L${prefix}/lib 
+Requires: 

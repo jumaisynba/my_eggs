@@ -1,0 +1,37 @@
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_touch_sensor_read
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_tunePidjoint
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_tunePid
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_PlotMatlab
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_PlotMatlabImg
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_AllForce
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_OneContFeats
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_ContsFeats
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_Image_weiss
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_CalibWeissNano
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_StiffDepthForce
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_COCtoZMP
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_servo
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_AllPoints
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_ErrProp
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_servo_hand
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_PlotMatlabfarea
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_PlanFeats
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_PlotMatlabfareaiscontact
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_CalibSerieselOptoforce
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _tactile_servo_msgs_generate_messages_check_deps_compare_eigens
+[ 19%] Built target tactile_servo_msgs_generate_messages_nodejs
+[ 57%] Built target tactile_servo_msgs_generate_messages_eus
+[ 59%] Built target tactile_servo_msgs_generate_messages_cpp
+[ 79%] Built target tactile_servo_msgs_generate_messages_lisp
+[100%] Built target tactile_servo_msgs_generate_messages_py
+[100%] Built target tactile_servo_msgs_generate_messages

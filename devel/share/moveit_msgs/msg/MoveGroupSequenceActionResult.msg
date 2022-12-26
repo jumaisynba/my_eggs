@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/moveit_msgs/share/moveit_msgs/msg/MoveGroupSequenceActionResult.msg

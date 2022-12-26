@@ -1,0 +1,7 @@
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:16:10:[m[K [01;31m[Kfatal error: [m[Kmy_msgs/my_message.h: No such file or directory
+ #include [01;31m[K"my_msgs/my_message.h"[m[K
+          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/ur5_nsh_experiment.dir/src/ur5_nsh_experiment.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ur5_nsh_experiment.dir/all] Error 2
+make: *** [all] Error 2

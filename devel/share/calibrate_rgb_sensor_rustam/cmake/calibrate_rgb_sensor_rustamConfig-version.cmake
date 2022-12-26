@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/calibrate_rgb_sensor_rustam/share/calibrate_rgb_sensor_rustam/cmake/calibrate_rgb_sensor_rustamConfig-version.cmake

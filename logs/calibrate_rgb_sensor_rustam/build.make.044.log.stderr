@@ -1,0 +1,16 @@
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:31:1:[m[K [01;31m[Kerror: [m[K‘[01m[Kup_button_pressed_[m[K’ does not name a type
+ [01;31m[Kup_button_pressed_[m[K=false;
+ [01;31m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:32:1:[m[K [01;31m[Kerror: [m[K‘[01m[Kdown_button_pressed_[m[K’ does not name a type
+ [01;31m[Kdown_button_pressed_[m[K=false;
+ [01;31m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:246:7:[m[K [01;31m[Kerror: [m[K‘[01m[Kup_button_pressed_[m[K’ was not declared in this scope
+   if ([01;31m[Kup_button_pressed_[m[K && down_button_pressed_){
+       [01;31m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:246:29:[m[K [01;31m[Kerror: [m[K‘[01m[Kdown_button_pressed_[m[K’ was not declared in this scope
+   if (up_button_pressed_ && [01;31m[Kdown_button_pressed_[m[K){
+                             [01;31m[K^~~~~~~~~~~~~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/ur5_nsh_experiment.dir/src/ur5_nsh_experiment.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ur5_nsh_experiment.dir/all] Error 2
+make: *** [all] Error 2

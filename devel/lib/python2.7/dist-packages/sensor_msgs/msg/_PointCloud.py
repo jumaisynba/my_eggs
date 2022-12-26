@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/sensor_msgs/lib/python2.7/dist-packages/sensor_msgs/msg/_PointCloud.py

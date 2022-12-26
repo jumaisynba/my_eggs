@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/tactile_servo_msgs/share/roseus/ros/tactile_servo_msgs/msg/PlotMatlab.l

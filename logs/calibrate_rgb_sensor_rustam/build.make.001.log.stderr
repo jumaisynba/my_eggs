@@ -1,0 +1,11 @@
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:[m[K In member function ‘[01m[Kvoid PoseShow::pose_now()[m[K’:
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:155:44:[m[K [01;31m[Kerror: [m[K‘[01m[Koldef_to_newef[m[K’ was not declared in this scope
+  Z_NOW = nowtransform.getOrigin().getZ() - [01;31m[Koldef_to_newef[m[K; // get Z position of tool0 relative to base frame
+                                            [01;31m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:226:1:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K}[m[K’ at end of input
+ [01;31m[K}[m[K
+ [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/ur5_nsh_experiment.dir/src/ur5_nsh_experiment.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ur5_nsh_experiment.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,48 @@
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:[m[K In function ‘[01m[Kvoid downCallback(const ConstPtr&)[m[K’:
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:174:28:[m[K [01;31m[Kerror: [m[K‘[01m[Kconst ConstPtr {aka const class boost::shared_ptr<const std_msgs::Bool_<std::allocator<void> > >}[m[K’ has no member named ‘[01m[Kdata[m[K’
+  down_button_pressed_=down.[01;31m[Kdata[m[K;
+                            [01;31m[K^~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:[m[K In function ‘[01m[Kvoid upCallback(const ConstPtr&)[m[K’:
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:178:24:[m[K [01;31m[Kerror: [m[K‘[01m[Kconst ConstPtr {aka const class boost::shared_ptr<const std_msgs::Bool_<std::allocator<void> > >}[m[K’ has no member named ‘[01m[Kdata[m[K’
+  up_button_pressed_=up.[01;31m[Kdata[m[K;
+                        [01;31m[K^~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:226:8:[m[K [01;31m[Kerror: [m[K‘[01m[Ksub_up[m[K’ is not a member of ‘[01m[Kros[m[K’
+  ros:: [01;31m[Ksub_up[m[K = nh.subscribe("/buttonUp", 1 ,&URutil::upCallback,this);
+        [01;31m[K^~~~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:226:66:[m[K [01;31m[Kerror: [m[Kinvalid use of ‘[01m[Kthis[m[K’ in non-member function
+  ros:: sub_up = nh.subscribe("/buttonUp", 1 ,&URutil::upCallback,[01;31m[Kthis[m[K);
+                                                                  [01;31m[K^~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:227:8:[m[K [01;31m[Kerror: [m[K‘[01m[Ksub_down[m[K’ is not a member of ‘[01m[Kros[m[K’
+  ros:: [01;31m[Ksub_down[m[K = nh.subscribe("/buttonDown", 1 ,&URutil::downCallback,this);
+        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:227:8:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kshutdown[m[K’
+  ros:: [01;36m[Ksub_down[m[K = nh.subscribe("/buttonDown", 1 ,&URutil::downCallback,this);
+        [01;36m[K^~~~~~~~[m[K
+        [32m[Kshutdown[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:227:72:[m[K [01;31m[Kerror: [m[Kinvalid use of ‘[01m[Kthis[m[K’ in non-member function
+  ros:: sub_down = nh.subscribe("/buttonDown", 1 ,&URutil::downCallback,[01;31m[Kthis[m[K);
+                                                                        [01;31m[K^~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/ros.h:40:0[m[K,
+                 from [01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:1[m[K:
+[01m[K/opt/ros/melodic/include/ros/console.h:348:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%f[m[K’ expects argument of type ‘[01m[Kdouble[m[K’, but argument 8 has type ‘[01m[Kint[m[K’ [[01;35m[K-Wformat=[m[K]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;35m[K)[m[K
+                                                                                                                                                                                [01;35m[K^[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:351:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:387:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:572:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:263:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+   [01;36m[KR[m[KOS_INFO("Up:%f | Y_now:%f | Z_now:%f", up_button_pressed_, Y_NOW, Z_NOW);
+   [01;36m[K^[m[K
+make[2]: *** [CMakeFiles/ur5_nsh_experiment.dir/src/ur5_nsh_experiment.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ur5_nsh_experiment.dir/all] Error 2
+make: *** [all] Error 2

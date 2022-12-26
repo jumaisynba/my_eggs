@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/move_ur_sim/lib/pkgconfig/move_ur_sim.pc

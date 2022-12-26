@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/visualization_msgs/lib/python2.7/dist-packages/visualization_msgs/msg/_Marker.py

@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/tactile_servo_srvs/share/tactile_servo_srvs/cmake/tactile_servo_srvsConfig-version.cmake

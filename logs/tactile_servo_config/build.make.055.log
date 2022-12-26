@@ -1,0 +1,4 @@
+[ 50%] [34m[1mGenerating dynamic reconfigure files from image_processing/img_proc_param.cfg: /home/dimash/catkin_ws/devel/.private/tactile_servo_config/include/tactile_servo_config/img_proc_paramConfig.h /home/dimash/catkin_ws/devel/.private/tactile_servo_config/lib/python2.7/dist-packages/tactile_servo_config/cfg/img_proc_paramConfig.py[0m
+Generating reconfiguration files for img_proc_params in tactile_servo_config
+Wrote header file in /home/dimash/catkin_ws/devel/.private/tactile_servo_config/include/tactile_servo_config/img_proc_paramsConfig.h
+[100%] Built target tactile_servo_config_gencfg

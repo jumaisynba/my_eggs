@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/tactile_servo_srvs/share/roseus/ros/tactile_servo_srvs/srv/set_des_feats_srv.l

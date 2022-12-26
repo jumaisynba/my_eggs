@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/schunk_ezn64/share/common-lisp/ros/schunk_ezn64/msg/_package_PosAndSpeedFloat32.lisp

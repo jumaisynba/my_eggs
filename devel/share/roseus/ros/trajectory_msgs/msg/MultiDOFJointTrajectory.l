@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/trajectory_msgs/share/roseus/ros/trajectory_msgs/msg/MultiDOFJointTrajectory.l

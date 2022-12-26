@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dimash/catkin_ws/devel/.private/tactile_servo_config/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/dimash/catkin_ws/devel/.private/move_ur_sim
+
+Name: move_ur_sim
+Description: Description of move_ur_sim
+Version: 1.2.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

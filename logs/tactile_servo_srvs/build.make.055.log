@@ -1,0 +1,23 @@
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _tactile_servo_srvs_generate_messages_check_deps_start_servo_controller
+[  0%] Built target _tactile_servo_srvs_generate_messages_check_deps_set_des_feats_srv
+[  0%] Built target _tactile_servo_srvs_generate_messages_check_deps_choose_configuration_singularity
+[  0%] Built target _tactile_servo_srvs_generate_messages_check_deps_pose_arm_init
+[  0%] Built target _tactile_servo_srvs_generate_messages_check_deps_set_external_motion
+[  0%] Built target _tactile_servo_srvs_generate_messages_check_deps_begin_control
+[  0%] Built target _tactile_servo_srvs_generate_messages_check_deps_select_matrix
+[ 18%] Built target tactile_servo_srvs_generate_messages_nodejs
+[ 37%] Built target tactile_servo_srvs_generate_messages_cpp
+[ 59%] Built target tactile_servo_srvs_generate_messages_py
+[ 78%] Built target tactile_servo_srvs_generate_messages_lisp
+[100%] Built target tactile_servo_srvs_generate_messages_eus
+[100%] Built target tactile_servo_srvs_generate_messages

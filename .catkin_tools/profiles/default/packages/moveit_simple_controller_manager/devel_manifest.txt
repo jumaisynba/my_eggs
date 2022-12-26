@@ -1,0 +1,7 @@
+moveit/moveit_plugins/moveit_simple_controller_manager
+/home/dimash/catkin_ws/devel/.private/moveit_simple_controller_manager/cmake.lock /home/dimash/catkin_ws/devel/./cmake.lock
+/home/dimash/catkin_ws/devel/.private/moveit_simple_controller_manager/lib/libmoveit_simple_controller_manager.so.1.0.8 /home/dimash/catkin_ws/devel/lib/libmoveit_simple_controller_manager.so.1.0.8
+/home/dimash/catkin_ws/devel/.private/moveit_simple_controller_manager/lib/libmoveit_simple_controller_manager.so /home/dimash/catkin_ws/devel/lib/libmoveit_simple_controller_manager.so
+/home/dimash/catkin_ws/devel/.private/moveit_simple_controller_manager/lib/pkgconfig/moveit_simple_controller_manager.pc /home/dimash/catkin_ws/devel/lib/pkgconfig/moveit_simple_controller_manager.pc
+/home/dimash/catkin_ws/devel/.private/moveit_simple_controller_manager/share/moveit_simple_controller_manager/cmake/moveit_simple_controller_managerConfig.cmake /home/dimash/catkin_ws/devel/share/moveit_simple_controller_manager/cmake/moveit_simple_controller_managerConfig.cmake
+/home/dimash/catkin_ws/devel/.private/moveit_simple_controller_manager/share/moveit_simple_controller_manager/cmake/moveit_simple_controller_managerConfig-version.cmake /home/dimash/catkin_ws/devel/share/moveit_simple_controller_manager/cmake/moveit_simple_controller_managerConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/include/tactile_servo_config/servo_feats_selectConfig.h

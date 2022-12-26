@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/move_ur_sim/share/move_ur_sim/cmake/move_ur_simConfig.cmake

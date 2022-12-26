@@ -1,0 +1,17 @@
+touch_contr_ur/src/tactile_servo_config
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/cmake.lock /home/dimash/catkin_ws/devel/./cmake.lock
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/lib/pkgconfig/tactile_servo_config.pc /home/dimash/catkin_ws/devel/lib/pkgconfig/tactile_servo_config.pc
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/lib/python2.7/dist-packages/tactile_servo_config/__init__.py /home/dimash/catkin_ws/devel/lib/python2.7/dist-packages/tactile_servo_config/__init__.py
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/lib/python2.7/dist-packages/tactile_servo_config/cfg/__init__.py /home/dimash/catkin_ws/devel/lib/python2.7/dist-packages/tactile_servo_config/cfg/__init__.py
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/lib/python2.7/dist-packages/tactile_servo_config/cfg/img_proc_paramsConfig.py /home/dimash/catkin_ws/devel/lib/python2.7/dist-packages/tactile_servo_config/cfg/img_proc_paramsConfig.py
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/lib/python2.7/dist-packages/tactile_servo_config/cfg/servo_feats_selectConfig.py /home/dimash/catkin_ws/devel/lib/python2.7/dist-packages/tactile_servo_config/cfg/servo_feats_selectConfig.py
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/share/tactile_servo_config/docs/img_proc_paramsConfig.dox /home/dimash/catkin_ws/devel/share/tactile_servo_config/docs/img_proc_paramsConfig.dox
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/share/tactile_servo_config/docs/servo_feats_selectConfig.dox /home/dimash/catkin_ws/devel/share/tactile_servo_config/docs/servo_feats_selectConfig.dox
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/share/tactile_servo_config/docs/servo_feats_selectConfig-usage.dox /home/dimash/catkin_ws/devel/share/tactile_servo_config/docs/servo_feats_selectConfig-usage.dox
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/share/tactile_servo_config/docs/img_proc_paramsConfig-usage.dox /home/dimash/catkin_ws/devel/share/tactile_servo_config/docs/img_proc_paramsConfig-usage.dox
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/share/tactile_servo_config/docs/servo_feats_selectConfig.wikidoc /home/dimash/catkin_ws/devel/share/tactile_servo_config/docs/servo_feats_selectConfig.wikidoc
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/share/tactile_servo_config/docs/img_proc_paramsConfig.wikidoc /home/dimash/catkin_ws/devel/share/tactile_servo_config/docs/img_proc_paramsConfig.wikidoc
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/share/tactile_servo_config/cmake/tactile_servo_configConfig.cmake /home/dimash/catkin_ws/devel/share/tactile_servo_config/cmake/tactile_servo_configConfig.cmake
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/share/tactile_servo_config/cmake/tactile_servo_configConfig-version.cmake /home/dimash/catkin_ws/devel/share/tactile_servo_config/cmake/tactile_servo_configConfig-version.cmake
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/include/tactile_servo_config/servo_feats_selectConfig.h /home/dimash/catkin_ws/devel/include/tactile_servo_config/servo_feats_selectConfig.h
+/home/dimash/catkin_ws/devel/.private/tactile_servo_config/include/tactile_servo_config/img_proc_paramsConfig.h /home/dimash/catkin_ws/devel/include/tactile_servo_config/img_proc_paramsConfig.h

@@ -1,0 +1,15 @@
+[31m[1mCMake Error[0m at /opt/ros/melodic/share/catkin/cmake/catkinConfig.cmake:83 (find_package):
+  Could not find a package configuration file provided by
+  "tactile_servo_msgs" with any of the following names:
+
+    tactile_servo_msgsConfig.cmake
+    tactile_servo_msgs-config.cmake
+
+  Add the installation prefix of "tactile_servo_msgs" to CMAKE_PREFIX_PATH or
+  set "tactile_servo_msgs_DIR" to a directory containing one of the above
+  files.  If "tactile_servo_msgs" provides a separate development package or
+  SDK, be sure it has been installed.
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:9 (find_package)
+
+

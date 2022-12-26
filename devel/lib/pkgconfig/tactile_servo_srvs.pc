@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/tactile_servo_srvs/lib/pkgconfig/tactile_servo_srvs.pc

@@ -1,0 +1,1 @@
+/home/dimash/catkin_ws/devel/.private/tactile_servo_srvs/share/gennodejs/ros/tactile_servo_srvs/srv/select_matrix.js

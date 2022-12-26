@@ -1,0 +1,8 @@
+prefix=/home/dimash/catkin_ws/devel/.private/calibrate_rgb_sensor_rustam
+
+Name: calibrate_rgb_sensor_rustam
+Description: Description of calibrate_rgb_sensor_rustam
+Version: 0.0.0
+Cflags: -I/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/include
+Libs: -L${prefix}/lib -lcalibrate_rgb_sensor_rustam
+Requires: cmake_modules cv_bridge image_transport roscpp roslib sensor_msgs std_msgs geometry_msgs

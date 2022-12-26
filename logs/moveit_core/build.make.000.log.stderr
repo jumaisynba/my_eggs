@@ -1,0 +1,24 @@
+[01m[K/home/dimash/catkin_ws/src/moveit/moveit_core/kinematic_constraints/src/utils.cpp:[m[K In function ‘[01m[Kmoveit_msgs::Constraints kinematic_constraints::constructGoalConstraints(const string&, const PoseStamped&, double, double)[m[K’:
+[01m[K/home/dimash/catkin_ws/src/moveit/moveit_core/kinematic_constraints/src/utils.cpp:169:42:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<int shape> struct geometric_shapes::SolidPrimitiveDimCount[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   bv.dimensions.resize(geometric_shapes::[01;35m[KSolidPrimitiveDimCount[m[K<shape_msgs::SolidPrimitive::SPHERE>::value);
+                                          [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dimash/catkin_ws/src/moveit/moveit_core/kinematic_constraints/src/utils.cpp:38:0[m[K:
+[01m[K/home/dimash/catkin_ws/src/moveit/geometric_shapes/include/geometric_shapes/solid_primitive_dims.h:72:1:[m[K [01;36m[Knote: [m[Kdeclared here
+ [01;36m[KSolidPrimitiveDimCount[m[K
+ [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/moveit/moveit_core/kinematic_constraints/src/utils.cpp:[m[K In function ‘[01m[Kmoveit_msgs::Constraints kinematic_constraints::constructGoalConstraints(const string&, const PoseStamped&, const std::vector<double>&, const std::vector<double>&)[m[K’:
+[01m[K/home/dimash/catkin_ws/src/moveit/moveit_core/kinematic_constraints/src/utils.cpp:205:44:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<int shape> struct geometric_shapes::SolidPrimitiveDimCount[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     bv.dimensions.resize(geometric_shapes::[01;35m[KSolidPrimitiveDimCount[m[K<shape_msgs::SolidPrimitive::BOX>::value);
+                                            [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dimash/catkin_ws/src/moveit/moveit_core/kinematic_constraints/src/utils.cpp:38:0[m[K:
+[01m[K/home/dimash/catkin_ws/src/moveit/geometric_shapes/include/geometric_shapes/solid_primitive_dims.h:72:1:[m[K [01;36m[Knote: [m[Kdeclared here
+ [01;36m[KSolidPrimitiveDimCount[m[K
+ [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/moveit/moveit_core/kinematic_constraints/src/utils.cpp:[m[K In function ‘[01m[Kmoveit_msgs::Constraints kinematic_constraints::constructGoalConstraints(const string&, const Point&, const PointStamped&, double)[m[K’:
+[01m[K/home/dimash/catkin_ws/src/moveit/moveit_core/kinematic_constraints/src/utils.cpp:260:25:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<int shape> struct geometric_shapes::SolidPrimitiveDimCount[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       geometric_shapes::[01;35m[KSolidPrimitiveDimCount[m[K<shape_msgs::SolidPrimitive::SPHERE>::value);
+                         [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dimash/catkin_ws/src/moveit/moveit_core/kinematic_constraints/src/utils.cpp:38:0[m[K:
+[01m[K/home/dimash/catkin_ws/src/moveit/geometric_shapes/include/geometric_shapes/solid_primitive_dims.h:72:1:[m[K [01;36m[Knote: [m[Kdeclared here
+ [01;36m[KSolidPrimitiveDimCount[m[K
+ [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K

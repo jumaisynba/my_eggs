@@ -1,0 +1,10 @@
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:41:7:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kclass URutil[m[K’
+ class [01;31m[KURutil[m[K
+       [01;31m[K^~~~~~[m[K
+In file included from [01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:15:0[m[K:
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.h:34:7:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Kclass URutil[m[K’
+ class [01;36m[KURutil[m[K
+       [01;36m[K^~~~~~[m[K
+make[2]: *** [CMakeFiles/ur5_nsh_experiment.dir/src/ur5_nsh_experiment.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ur5_nsh_experiment.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,18 @@
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:[m[K In constructor ‘[01m[KURutil::URutil()[m[K’:
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:64:2:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Ksub_down[m[K’
+  [01;31m[Ksub_down[m[K = n.subscribe("/buttonDown", 1 ,&URutil::downCallback,this)
+  [01;31m[K^~~~~~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:[m[K At global scope:
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:108:46:[m[K [01;31m[Kerror: [m[Kno ‘[01m[Kvoid URutil::downCallback(std_msgs::Bool)[m[K’ member function declared in class ‘[01m[KURutil[m[K’
+ void URutil::downCallback(std_msgs::Bool down[01;31m[K)[m[K
+                                              [01;31m[K^[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:246:7:[m[K [01;31m[Kerror: [m[K‘[01m[Kup_button_pressed_[m[K’ was not declared in this scope
+   if ([01;31m[Kup_button_pressed_[m[K && down_button_pressed_){
+       [01;31m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dimash/catkin_ws/src/calibrate_rgb_sensor_rustam/src/ur5_nsh_experiment.cpp:246:29:[m[K [01;31m[Kerror: [m[K‘[01m[Kdown_button_pressed_[m[K’ was not declared in this scope
+   if (up_button_pressed_ && [01;31m[Kdown_button_pressed_[m[K){
+                             [01;31m[K^~~~~~~~~~~~~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/ur5_nsh_experiment.dir/src/ur5_nsh_experiment.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ur5_nsh_experiment.dir/all] Error 2
+make: *** [all] Error 2
